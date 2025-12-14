@@ -49,8 +49,7 @@ Now I'm a **Top-Rated Plus freelancer** on Upwork with 100% job success. Not bec
 - 🤔 I'm looking for help with  **new features to add inside KiNotes** , **spreading the word about KiNotes** to the KiCad community
 - 💬 Ask me about **PCB design, BOM optimization, ultra-low power IoT, motor controllers, or why your design costs too much** — or why I debug the human circuit the same way I debug boards (root cause first, patches later)
 - 📫 How to reach me: **pramil.wakchaure@gmail.com** | [pcbtools.xyz](https://pcbtools.xyz) | [Upwork](https://www.upwork.com/freelancers/pramil)
-- ⚡ Fun fact: **I once automated a water treatment plant for the Government of Maharashtra during a Chief Minister Fellowship. Learned that government deadlines are... flexible.**
-
+- ⚡ Fun fact: **I route differential pairs for relaxation. Yes, I know that's weird.** &&& - **KiNotes exists because I lost the same design note three times in one week.**
 ---
 ### Beyond the workbench
 When I'm not staring at copper pours, you'll find me being a dad, husband, son, brother, and uncle — the circuits 👨‍👩‍👧 that actually keep me running. The roles that don't fit on a resume but matter most.
