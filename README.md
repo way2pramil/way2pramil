@@ -1,8 +1,4 @@
-## Hi there 👋
-
-**way2pramil/way2pramil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hi, I'm Pramil 👋
+## Hi, I'm Pramil 👋
 
 **PCB designer who believes hardware should just work.**
 
