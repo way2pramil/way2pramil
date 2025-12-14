@@ -6,12 +6,12 @@
 
 ### What I actually build
 
-🔋 **BMS systems** — that keep batteries happy (and safe)  
-⚡ **Motor Controllers** — that don't catch fire under load
-📡 **IoT Devices** — that sleep at <10µA and wake up 2 years later still working
-🔌 **Wireless Chargers** — Qi charging for Apple devices, tight component placement  
-🤖 **Robotics** — Power distribution boards with fault protection  
-🔧 **Industrial Controller/sensors** — that work in places I'd never want to visit
+🔋 **BMS systems** — that keep batteries happy (and safe)  <br>
+⚡ **Motor Controllers** — that don't catch fire under load <br>
+📡 **IoT Devices** — that sleep at <10µA and wake up 2 years later still working <br>
+🔌 **Wireless Chargers** — Qi charging for Apple devices, packed tighter than I’d like to admit <br>
+🤖 **Robotics** — Power distribution boards with fault protection  <br>
+🔧 **Industrial Controller/sensors** — that work in places I'd never want to visit <br>
 
 ---
 
