@@ -11,6 +11,8 @@ When you hit the same pain point for the 100th time, you either complain or you 
 **4000+ hours** of "let me fix that for you"  
 **100% job success** on Upwork (Top-Rated Plus)
 
+---
+
 ### What I actually build as PCB designer who believes hardware should just work.
 
 🔋 **BMS systems** — that keep batteries happy (and safe)  <br>
@@ -30,6 +32,8 @@ Did a **Chief Minister Fellowship** where I automated a water treatment plant fo
 
 Now I'm a **Top-Rated Plus freelancer** on Upwork with 100% job success. Not because I'm perfect, but because I don't sleep until the design works.
 
+---
+
 ### Tools I actually use (not just list on my resume)
 
 `Altium Designer` `KiCad` `EasyEDA` `LTspice` 
@@ -37,6 +41,8 @@ Now I'm a **Top-Rated Plus freelancer** on Upwork with 100% job success. Not bec
 ### I choose technology based on constraints, not trends. <br>
 
 `STM32` `ESP32` `nRF52` `4G LTE` `BLE` `LoRa` 
+
+---
 
 ### What I'm building now
 
@@ -50,13 +56,17 @@ Now I'm a **Top-Rated Plus freelancer** on Upwork with 100% job success. Not bec
 - 💬 Ask me about **PCB design, BOM optimization, ultra-low power IoT, motor controllers, or why your design costs too much** — or why I debug the human circuit the same way I debug boards (root cause first, patches later)
 - 📫 How to reach me: **pramil.wakchaure@gmail.com** | [pcbtools.xyz](https://pcbtools.xyz) | [Upwork](https://www.upwork.com/freelancers/pramil)
 - ⚡ Fun fact: **I route differential pairs for relaxation. Yes, I know that's weird.** &&& - **KiNotes exists because I lost the same design note three times in one week.**
+  
 ---
+
 ### Beyond the workbench
 When I'm not staring at copper pours, you'll find me being a dad, husband, son, brother, and uncle — the circuits 👨‍👩‍👧 that actually keep me running. The roles that don't fit on a resume but matter most.
 - 📚 Reading philosophy (the ancient wisdom that makes you question everything)
 - 🌿 Bridging Ayurveda & modern medicine (debugging the human circuit) — same circuit, different debug tools
 - ☕ Drinking too much chai
 - 🧭 Care deeply about building things that last — not just electrically, but socially and ethically too
+
+---
 
 ### Let's talk
 
@@ -70,6 +80,4 @@ If you're building something interesting — or just want to argue about via sti
 
 *"The projects that succeeded weren't the cleverest designs. They were the ones with clear notes."*
 
-### 👋 Hey, I'm Pramil
-
-
+### 👋 *Hey, that's Pramil — adding a new page every day.*
