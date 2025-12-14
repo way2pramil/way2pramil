@@ -1,10 +1,17 @@
 ## Hi, I'm Pramil 👋
 
-**PCB designer who believes hardware should just work.**
+**60% PCB designer** · **40% tool builder**
+I spend most of my time designing boards — which is why I build tools on the side.  
+When you hit the same pain point for the 100th time, you either complain or you fix it.
 
-11+ years of turning napkin sketches into production-ready boards. 68+ happy clients. 4000+ hours of "let me fix that for you."
+---
 
-### What I actually build
+**11+ years** turning napkin sketches into production boards  
+**68+ clients** who trusted me with their hardware  
+**4000+ hours** of "let me fix that for you"  
+**100% job success** on Upwork (Top-Rated Plus)
+
+### What I actually build as PCB designer who believes hardware should just work.
 
 🔋 **BMS systems** — that keep batteries happy (and safe)  <br>
 ⚡ **Motor Controllers** — that don't catch fire under load <br>
@@ -33,14 +40,14 @@ Now I'm a **Top-Rated Plus freelancer** on Upwork with 100% job success. Not bec
 
 ### What I'm building now
 
-**[PCBtools.xyz](https://pcbtools.xyz)** — Open-source tools for hardware engineers who are tired of clunky workflows.
 
-**KiNotes** — Engineering notes that live inside KiCad. Because I kept losing my design decisions in random text files.
 
-- 🔭 I'm currently working on **KiNotes** — engineering notes that live inside KiCad
-- 🌱 I'm currently learning **AI-assisted hardware design workflows** and building tools at PCBtools.xyz
-- 👯 I'm looking to collaborate on **open-source KiCad plugins** and **hardware engineering tools**
-- 🤔 I'm looking for help with **spreading the word about KiNotes** to the KiCad community
+- 🔭 **[KiNotes](https://github.com/way2pramil/KiNotes)** — Open-source, Local First Smart Notes live inside KiCad (Because I kept losing my design decisions in random text files.)
+- 🧰 **[PCBtools.xyz](https://pcbtools.xyz)** —  PCB resource hub (because the ecosystem is chaos) for hardware engineers who are tired of clunky workflows
+- 🚀 More tools coming — built by someone who actually has to use them
+- 🌱 I'm currently learning **AI-assisted design workflows** and building tools and missing links on PCBtools.xyz
+- 👯 I'm looking to collaborate on **open-source plugins** and **hardware engineering tools**
+- 🤔 I'm looking for help with  **new featurs to add inside KiNotes** , **spreading the word about KiNotes** to the KiCad community
 - 💬 Ask me about **PCB design, BOM optimization, ultra-low power IoT, motor controllers, or why your design costs too much**
 - 📫 How to reach me: **pramil.wakchaure@gmail.com** | [pcbtools.xyz](https://pcbtools.xyz) | [Upwork](https://www.upwork.com/freelancers/pramil)
 - ⚡ Fun fact: **I once automated a water treatment plant for the Government of Maharashtra during a Chief Minister Fellowship. Learned that government deadlines are... flexible.**
@@ -65,3 +72,7 @@ If you're building something interesting — or just want to argue about via sti
 ---
 
 *"The projects that succeeded weren't the cleverest designs. They were the ones with clear notes."*
+
+### 👋 Hey, I'm Pramil
+
+
