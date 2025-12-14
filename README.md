@@ -27,7 +27,8 @@ Now I'm a **Top-Rated Plus freelancer** on Upwork with 100% job success. Not bec
 
 `Altium Designer` `KiCad` `EasyEDA` `LTspice` 
 
-###I choose technology based on constraints, not trends.
+### I choose technology based on constraints, not trends. <br>
+
 `STM32` `ESP32` `nRF52` `4G LTE` `BLE` `LoRa` 
 
 ### What I'm building now
