@@ -11,7 +11,7 @@
 📡 **IoT Devices** — that sleep at <10µA and wake up 2 years later still working
 🔌 **Wireless Chargers** — Qi charging for Apple devices, tight component placement  
 🤖 **Robotics** — Power distribution boards with fault protection  
-🔧 **Industrial sensors** — that work in places I'd never want to visit
+🔧 **Industrial Controller/sensors** — that work in places I'd never want to visit
 
 ---
 
@@ -27,7 +27,8 @@ Now I'm a **Top-Rated Plus freelancer** on Upwork with 100% job success. Not bec
 
 `Altium Designer` `KiCad` `EasyEDA` `LTspice` 
 
-`STM32` `ESP32` `nRF52` `4G LTE` `BLE` `LoRa`
+###I choose technology based on constraints, not trends.
+`STM32` `ESP32` `nRF52` `4G LTE` `BLE` `LoRa` 
 
 ### What I'm building now
 
@@ -47,9 +48,10 @@ Now I'm a **Top-Rated Plus freelancer** on Upwork with 100% job success. Not bec
 ### Beyond the workbench
 
 When I'm not staring at copper pours, you'll find me:
-- 📚 Reading philosophy (the ancient kind that makes you question everything)
+- 📚 Reading philosophy (the ancient wisdom that makes you question everything)
 - 🌿 Exploring Ayurveda (debugging the human body)
 - ☕ Drinking too much chai
+- 🧭 Care deeply about building things that last — not just electrically, but socially and ethically too
 
 ### Let's talk
 
